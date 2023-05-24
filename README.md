@@ -36,14 +36,7 @@ OxO is a service for finding mappings (or cross-references) between terms from o
 
 #### BioPortal: The National Center for Biomedical Ontology (NCBO) BioPortal
 
-BioPortal provides access to commonly used biomedical ontologies and to tools for working with them. BioPortal allows you to:
-- browse the library of ontologies
-- search for a term across multiple ontologies
-- browse mappings between terms in different ontologies
-- receive recommendations on which ontologies are most relevant for a corpus
-- annotate text with terms from ontologies
-- search biomedical resources for a term
-- browse a selection of projects that use BioPortal resources
+BioPortal provides access to commonly used biomedical ontologies and to tools for working with them. BioPortal allows you to: browse the library of ontologies; search for a term across multiple ontologies; browse mappings between terms in different ontologies; receive recommendations on which ontologies are most relevant for a corpus; annotate text with terms from ontologies; search biomedical resources for a term; browse a selection of projects that use BioPortal resources.
 
 - [Paper]()
 
