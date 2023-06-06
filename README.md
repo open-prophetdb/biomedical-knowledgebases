@@ -2,15 +2,30 @@
 
 A collection of biomedical knowledgebases, ontologies, datasets and publications. I hope this collection can help you to find the right resource to build your own knowledge graph. I will keep updating this list. If you have any suggestions, please feel free to post an issue or pull request.
 
-[Knowledgebases](./knowledgebase.md)
+- [Knowledgebases](./knowledgebase.md)
 
-[Ontologies](./ontology.md)
+- [Ontologies](./ontology.md)
 
-[Datasets](./dataset.md)
+- [Datasets](./dataset.md)
 
-[Publications](./publication.md)
+- [Publications](./publication.md)
 
-[Resources](./resource.md)
+- [Resources](./resource.md)
+
+If you only want to use the knowledge graph, you can see my other projects/websites:
+
+- [BioMedGPS Studio](https://github.com/yjcyxky/biomedgps-studio)
+
+    [Frontend] A knowledge graph system with graph neural network for drug discovery, disease mechanism and biomarker screening.
+
+
+- [Rapex](https://github.com/yjcyxky/rapex)
+
+    RAPEX - Response to Air Pollution EXposure; A knowledge graph system for air pollution exposure.
+
+- [Demo System for Network Medicine](https://www.biomedgps.org/#/knowledge-graph)
+
+- [Demo System for Rapex](https://rapex.prophetdb.org/#/)
 
 ## What's the Knowledge Graph?
 
