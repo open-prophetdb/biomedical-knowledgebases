@@ -1,6 +1,3 @@
-* auto-gen TOC:
-{:toc}
-
 ### PrimeKG: A Knowledge Graph for Precision Medicine.
 PrimeKG integrates 20 high-quality resources to describe 17,080 diseases with 4,050,249 relationships representing ten major biological scales, including disease-associated protein perturbations, biological processes and pathways, anatomical and phenotypic scales, and the entire range of approved drugs with their therapeutic action, considerably expanding previous efforts in disease-rooted knowledge graphs. PrimeKG contains an abundance of 'indications', 'contradictions', and 'off-label use' drug-disease edges that lack in other knowledge graphs and can support AI analyses of how drugs affect disease-associated networks.
 
@@ -143,3 +140,13 @@ The DISNET database integrates phenotypic and genetic-biological characteristics
 - [Website](http://disnet.ctb.upm.es/)
 
 - [Data](https://disnet.ctb.upm.es/about/database)
+
+### SoFDA: an integrated web platform from syndrome ontology to network-based evaluation of disease–syndrome–formula associations for precision medicine
+
+SoFDA is the first available collections of traditional Chinese medicine (TCM) syndrome ontology, the syndrome classification tool and the related-feature associations with disease and prescriptions for investigating the pathological links and therapeutic mechanisms. It contains the detailed information of 310 TCM syndromes recorded in the monograph of "Chinese Medicine Diagnostics" and 9 novel syndromes of COVID-19, as well as 8045 diseases and 1359 TCM prescriptions used for the corresponding syndromes. Considering the lack of classification information for most TCM syndromes affecting diagnostic efficacy in the daily clinical settings, SoFDA offers a novel prediction tool for syndrome classification, based on symptoms and the related target genes, the enriched gene ontology items, pathways, network modules and network density, with a simple operation and a satisfying performance. More importantly, it evaluates the association levels of syndrome-syndrome, syndrome-disease, syndrome-formula and syndrome-disease-formula, via calculating the symptom-, target gene-, the enriched gene ontology item-, pathway- and network module-based similarities and the network density, and further utilizes a variety of visualization types, such as heatmap, multi-level network and upsetview, to illustrate the association calculation results. In summary, SoFDA is of great significance to elucidate the biological basis of TCM syndromes and to facilitate functional and mechanistic studies of TCM syndrome differentiation and treatment.
+
+- [Paper](https://www.sciencedirect.com/science/article/pii/S2095927322001037)
+
+- [Code]()
+
+- [Website](http://www.tcmip.cn/Syndrome/front/#/)
