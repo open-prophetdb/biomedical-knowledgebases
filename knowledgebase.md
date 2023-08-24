@@ -150,3 +150,15 @@ SoFDA is the first available collections of traditional Chinese medicine (TCM) s
 - [Code]()
 
 - [Website](http://www.tcmip.cn/Syndrome/front/#/)
+
+### SMPDB: The Small Molecule Pathway Database
+
+SMPDB (The Small Molecule Pathway Database) is an interactive, visual database containing more than 30 000 small molecule pathways found in humans only. The majority of these pathways are not found in any other pathway database. SMPDB is designed specifically to support pathway elucidation and pathway discovery in metabolomics, transcriptomics, proteomics and systems biology. It is able to do so, in part, by providing exquisitely detailed, fully searchable, hyperlinked diagrams of human metabolic pathways, metabolic disease pathways, metabolite signaling pathways and drug-action pathways. All SMPDB pathways include information on the relevant organs, subcellular compartments, protein_complex cofactors, protein_complex locations, metabolite locations, chemical structures and protein_complex quaternary structures. Each small molecule is hyperlinked to detailed descriptions contained in the HMDB or DrugBank and each protein_complex or enzyme complex is hyperlinked to UniProt. All SMPDB pathways are accompanied with detailed descriptions and references, providing an overview of the pathway, condition or processes depicted in each diagram. The database is easily browsed and supports full text, sequence and chemical structure searching. Users may query SMPDB with lists of metabolite names, drug names, genes/protein_complex names, SwissProt IDs, GenBank IDs, Affymetrix IDs or Agilent microarray IDs. These queries will produce lists of matching pathways and highlight the matching molecules on each of the pathway diagrams. Gene, metabolite and protein_complex concentration data can also be visualized through SMPDB's mapping interface. All of SMPDB's images, image maps, descriptions and tables are downloadable.
+
+- [Paper](http://www.ncbi.nlm.nih.gov/pubmed/24203708)
+
+- [Code]()
+
+- [Website](http://smpdb.ca/)
+
+- [Data](http://smpdb.ca/downloads)
