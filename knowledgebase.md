@@ -14,7 +14,6 @@ Precision Medicine Knowledgebase (PreMedKB) integrate the four fundamental compo
 
 - [Paper](https://pubmed.ncbi.nlm.nih.gov/30407536/)
 
-
 ### Orphanet Data
 
 Orphanet is a unique resource, gathering and improving knowledge on rare diseases so as to improve the diagnosis, care and treatment of patients with rare diseases. Orphanet aims to provide high-quality information on rare diseases, and ensure equal access to knowledge for all stakeholders. Orphanet also maintains the Orphanet rare disease nomenclature (ORPHAcode), essential in improving the visibility of rare diseases in health and research information systems.
@@ -32,7 +31,6 @@ Use large-scale medical bibliographic records and the related Medical Subject He
 - [Code](https://github.com/dhimmel/hsdn)
 
 - [Data](https://www.nature.com/articles/ncomms5212#MOESM1042)
-
 
 ### SymMap: an integrative database of traditional Chinese medicine enhanced by symptom mapping
 
@@ -81,7 +79,6 @@ A comprehensive resource for associations between gut microbes and phenotypes or
 
 - [Data](http://bio-annotation.cn/gutMDisorder/resource.dhtml)
 
-
 ### OAHG: An integrated resource for annotating human genes with multi-level ontologies
 
 In recent years, diverse products of genes in transcriptional level were well investigated, such as protein-coding gene (PCG), miRNA, lncRNA, circRNA, and so on. Their roles that vary from molecule to phenotype in human body attracted much attention these years. Now the annotation of genes’ roles using normalized terminologies is urgent for quantitative analyses. To this end, multiple manually curated databases were established about the annotation of an individual type of roles for an individual type of gene, such as miRNA-disease annotation (HMDD), lncRNA-disease annotation (LncRNADisease), circRNA-disease annotation (CircRNA2Disease), GOA, and so on. Although GeneRIF documented multiple roles of genes in the ‘functional description’ section, these roles were not normalized to ontologies. In summary, there is no online repository for annotating biological roles of genes comprehensively using ontogoies except for Ontogene.
@@ -94,7 +91,6 @@ Updated version at: [OntoGene: a resource for annotating human genes at transcri
 
 - [Data](http://bio-annotation.cn/Ontogene/Download.jsp)
 
-
 ### FORUM: building a Knowledge Graph from public databases and scientific literature to extract associations between chemicals and diseases
 
 Metabolomics studies aim at reporting a metabolic signature (list of metabolites) related to a particular experimental condition. These signatures are instrumental in the identification of biomarkers or classification of individuals, however their biological and physiological interpretation remains a challenge. 
@@ -106,7 +102,6 @@ FORUM is an open knowledge network aiming at supporting metabolomics results int
 - [Code](https://github.com/eMetaboHUB/Forum-DiseasesChem)
 
 - [Website](https://forum-webapp.semantic-metabolomics.fr/)
-
 
 ### DISNET: A framework for extracting phenotypic disease information from public sources
 
@@ -135,3 +130,15 @@ Biomedical knowledge graphs (KGs), which can help with the understanding of comp
 - [Paper](https://academic.oup.com/bib/article/22/4/bbaa344/6042240)
 
 - [Code](https://github.com/MindRank-Biotech/PharmKG)
+
+- [Website](http://www.tcmip.cn/Syndrome/front/#/)
+
+### SMPDB: The Small Molecule Pathway Database
+
+SMPDB (The Small Molecule Pathway Database) is an interactive, visual database containing more than 30 000 small molecule pathways found in humans only. The majority of these pathways are not found in any other pathway database. SMPDB is designed specifically to support pathway elucidation and pathway discovery in metabolomics, transcriptomics, proteomics and systems biology. It is able to do so, in part, by providing exquisitely detailed, fully searchable, hyperlinked diagrams of human metabolic pathways, metabolic disease pathways, metabolite signaling pathways and drug-action pathways. All SMPDB pathways include information on the relevant organs, subcellular compartments, protein_complex cofactors, protein_complex locations, metabolite locations, chemical structures and protein_complex quaternary structures. Each small molecule is hyperlinked to detailed descriptions contained in the HMDB or DrugBank and each protein_complex or enzyme complex is hyperlinked to UniProt. All SMPDB pathways are accompanied with detailed descriptions and references, providing an overview of the pathway, condition or processes depicted in each diagram. The database is easily browsed and supports full text, sequence and chemical structure searching. Users may query SMPDB with lists of metabolite names, drug names, genes/protein_complex names, SwissProt IDs, GenBank IDs, Affymetrix IDs or Agilent microarray IDs. These queries will produce lists of matching pathways and highlight the matching molecules on each of the pathway diagrams. Gene, metabolite and protein_complex concentration data can also be visualized through SMPDB's mapping interface. All of SMPDB's images, image maps, descriptions and tables are downloadable.
+
+- [Paper](http://www.ncbi.nlm.nih.gov/pubmed/24203708)
+
+- [Website](http://smpdb.ca/)
+
+- [Data](http://smpdb.ca/downloads)
