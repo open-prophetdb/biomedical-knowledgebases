@@ -14,19 +14,12 @@ Precision Medicine Knowledgebase (PreMedKB) integrate the four fundamental compo
 
 - [Paper](https://pubmed.ncbi.nlm.nih.gov/30407536/)
 
-- [Code]()
-
-- [Website]()
 
 ### Orphanet Data
 
 Orphanet is a unique resource, gathering and improving knowledge on rare diseases so as to improve the diagnosis, care and treatment of patients with rare diseases. Orphanet aims to provide high-quality information on rare diseases, and ensure equal access to knowledge for all stakeholders. Orphanet also maintains the Orphanet rare disease nomenclature (ORPHAcode), essential in improving the visibility of rare diseases in health and research information systems.
 
 Orphanet was established in France by the INSERM (French National Institute for Health and Medical Research) in 1997.This initiative became a European endeavour from 2000, supported by grants from the European Commission: Orphanet has gradually grown to a Consortium of 40 countries, within Europe and across the globe.
-
-- [Paper]()
-
-- [Code]()
 
 - [Website](https://www.orphadata.com/)
 
@@ -49,11 +42,7 @@ SymMap is an integrative database of traditional Chinese medicine enhanced by sy
 
 - [Paper](https://academic.oup.com/nar/article/47/D1/D1110/5150228)
 
-- [Code]()
-
 - [Website](http://www.symmap.org/)
-
-- [Data]()
 
 ### MetSigDis: a manually curated resource for the metabolic signatures of diseases
 
@@ -62,8 +51,6 @@ MetSigDis, a manually curated resource, aims to provide a comprehensive resource
 The current version of MetSigDis documents 6,849 curated relationships between 2,420 metabolites and 129 diseases across 8 species involving Homo sapiens, Rat, Mouse, Drosophila melanogaster, Triatomine, Mice, Pig, and Mus musculus. Each entry in the MetSigDis contains detailed information on a relationship between metabolite and disease, including metabolite ID, metabolite name, disease ID, disease name, species, metabolomics analytical platforms, tissue, metabolite alteration, and literature reference.
 
 - [Paper](https://academic.oup.com/bib/article/20/1/203/4091292)
-
-- [Code]()
 
 - [Website](http://bio-annotation.cn/MetSigDis/)
 
@@ -76,8 +63,6 @@ Metagenomic sequencing of fecal samples has identified 3.3×106 non-redundant mi
 Here, gutMGene team manually extracted microbe-metabolite, microbe-target, and metabolite-target relationships in Human and Mouse from almost 400 publications. All of these relationships were experimentally validated in vivo or in vitro and measured by RT-qPCR, high performance liquid chromatography, 16S rRNA sequence, and so on.
 
 - [Paper](https://academic.oup.com/nar/article/50/D1/D795/6368055)
-
-- [Code]()
 
 - [Website](http://bio-annotation.cn/gutmgene/home.dhtml)
 
@@ -92,8 +77,6 @@ A comprehensive resource for associations between gut microbes and phenotypes or
 
 - [Paper](https://academic.oup.com/nar/article/51/D1/D717/6754909)
 
-- [Code]()
-
 - [Website](http://bio-annotation.cn/gutMDisorder/)
 
 - [Data](http://bio-annotation.cn/gutMDisorder/resource.dhtml)
@@ -106,8 +89,6 @@ In recent years, diverse products of genes in transcriptional level were well in
 Updated version at: [OntoGene: a resource for annotating human genes at transcriptional level with ontologies](http://bio-annotation.cn/OntoGene/)
 
 - [Paper](https://www.nature.com/articles/srep34820)
-
-- [Code]()
 
 - [Website](http://bio-annotation.cn/Ontogene/Home.jsp)
 
@@ -135,8 +116,6 @@ The DISNET database integrates phenotypic and genetic-biological characteristics
 
 - [Paper](https://peerj.com/articles/8580/)
 
-- [Code]()
-
 - [Website](http://disnet.ctb.upm.es/)
 
 - [Data](https://disnet.ctb.upm.es/about/database)
@@ -147,6 +126,12 @@ SoFDA is the first available collections of traditional Chinese medicine (TCM) s
 
 - [Paper](https://www.sciencedirect.com/science/article/pii/S2095927322001037)
 
-- [Code]()
-
 - [Website](http://www.tcmip.cn/Syndrome/front/#/)
+
+### PharmKG: a dedicated knowledge graph benchmark for bomedical data mining
+
+Biomedical knowledge graphs (KGs), which can help with the understanding of complex biological systems and pathologies, have begun to play a critical role in medical practice and research. However, challenges remain in their embedding and use due to their complex nature and the specific demands of their construction. Existing studies often suffer from problems such as sparse and noisy datasets, insufficient modeling methods and non-uniform evaluation metrics. In this work, we established a comprehensive KG system for the biomedical field in an attempt to bridge the gap. Here, we introduced PharmKG, a multi-relational, attributed biomedical KG, composed of more than 500 000 individual interconnections between genes, drugs and diseases, with 29 relation types over a vocabulary of ~8000 disambiguated entities. Each entity in PharmKG is attached with heterogeneous, domain-specific information obtained from multi-omics data, i.e. gene expression, chemical structure and disease word embedding, while preserving the semantic and biomedical features. For baselines, we offered nine state-of-the-art KG embedding (KGE) approaches and a new biological, intuitive, graph neural network-based KGE method that uses a combination of both global network structure and heterogeneous domain features. Based on the proposed benchmark, we conducted extensive experiments to assess these KGE models using multiple evaluation metrics. Finally, we discussed our observations across various downstream biological tasks and provide insights and guidelines for how to use a KG in biomedicine. We hope that the unprecedented quality and diversity of PharmKG will lead to advances in biomedical KG construction, embedding and application.
+
+- [Paper](https://academic.oup.com/bib/article/22/4/bbaa344/6042240)
+
+- [Code](https://github.com/MindRank-Biotech/PharmKG)

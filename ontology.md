@@ -103,3 +103,21 @@ This database was initiated in the early 1960s by Dr. Victor A. McKusick as a ca
 
     - [Seminar - Slides](http://www.cs.rpi.edu/~szymansk/fns.21/slides/20_Seminar_Vijay_Sadashivaiah_Human_Disease_Network_Final.pdf)
     
+
+### PubChem: Open Chemistry Database
+
+https://pubchem.ncbi.nlm.nih.gov/
+
+### ChEBI: Chemical Entities of Biological Interest
+
+https://www.ebi.ac.uk/chebi/
+
+### Monarch Initiative
+
+https://monarchinitiative.org/
+
+
+### Monarch Disease Ontology (MONDO)
+
+https://mondo.monarchinitiative.org/
+

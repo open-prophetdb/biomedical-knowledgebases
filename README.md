@@ -12,20 +12,23 @@ A collection of biomedical knowledgebases, ontologies, datasets and publications
 
 - [Resources](./resource.md)
 
-If you only want to use the knowledge graph, you can see my other projects/websites:
+- [Tools](./tool.md)
 
-- [BioMedGPS Studio](https://github.com/yjcyxky/biomedgps-studio)
+- [Models](./model.md)
 
-    [Frontend] A knowledge graph system with graph neural network for drug discovery, disease mechanism and biomarker screening.
+If you only want to use the knowledge graph, you can see our other projects/websites:
 
+- [BioMedGPS](https://github.com/yjcyxky/biomedgps)
+
+    A knowledge graph system with graph neural network for drug discovery, disease mechanism and biomarker screening.
+
+- [BioMedGPS Data](https://github.com/yjcyxky/biomedgps-data)
+
+    A Customized Knowledge Graph for BioMedGPS Project
 
 - [Rapex](https://github.com/yjcyxky/rapex)
 
     RAPEX - Response to Air Pollution EXposure; A knowledge graph system for air pollution exposure.
-
-- [Demo System for Network Medicine](https://www.biomedgps.org/#/knowledge-graph)
-
-- [Demo System for Rapex](https://rapex.prophetdb.org/#/)
 
 ## What's the Knowledge Graph?
 
