@@ -9,6 +9,7 @@ PrimeKG integrates 20 high-quality resources to describe 17,080 diseases with 4,
 
 - [Website](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
 
+
 ### PreMedKB: an integrated precision medicine knowledgebase for interpreting relationships between diseases, genes, variants and drugs
 Precision Medicine Knowledgebase (PreMedKB) integrate the four fundamental components of precision medicine: diseases, genes, variants and drugs. PreMedKB allows for search of comprehensive information within each of the four components, the relationships between any two or more components, and importantly, the interpretation of the clinical meanings of a patient's genetic variants. PreMedKB is an efficient and user-friendly tool to assist researchers, clinicians or patients in interpreting a patient's genetic profile in terms of discovering potential pathogenic variants, recommending therapeutic regimens, designing panels for genetic testing kits, and matching patients for clinical trials.
 
@@ -21,6 +22,7 @@ Orphanet is a unique resource, gathering and improving knowledge on rare disease
 Orphanet was established in France by the INSERM (French National Institute for Health and Medical Research) in 1997.This initiative became a European endeavour from 2000, supported by grants from the European Commission: Orphanet has gradually grown to a Consortium of 40 countries, within Europe and across the globe.
 
 - [Website](https://www.orphadata.com/)
+
 
 ### Human Symptoms Disease Network (HSDN)
 
@@ -53,6 +55,7 @@ The current version of MetSigDis documents 6,849 curated relationships between 2
 - [Website](http://bio-annotation.cn/MetSigDis/)
 
 - [Data](http://bio-annotation.cn/MetSigDis/download)
+
 
 ### gutMGene: a comprehensive database for target genes of gut microbes and microbial metabolites
 
@@ -115,6 +118,7 @@ The DISNET database integrates phenotypic and genetic-biological characteristics
 
 - [Data](https://disnet.ctb.upm.es/about/database)
 
+
 ### SoFDA: an integrated web platform from syndrome ontology to network-based evaluation of disease–syndrome–formula associations for precision medicine
 
 SoFDA is the first available collections of traditional Chinese medicine (TCM) syndrome ontology, the syndrome classification tool and the related-feature associations with disease and prescriptions for investigating the pathological links and therapeutic mechanisms. It contains the detailed information of 310 TCM syndromes recorded in the monograph of "Chinese Medicine Diagnostics" and 9 novel syndromes of COVID-19, as well as 8045 diseases and 1359 TCM prescriptions used for the corresponding syndromes. Considering the lack of classification information for most TCM syndromes affecting diagnostic efficacy in the daily clinical settings, SoFDA offers a novel prediction tool for syndrome classification, based on symptoms and the related target genes, the enriched gene ontology items, pathways, network modules and network density, with a simple operation and a satisfying performance. More importantly, it evaluates the association levels of syndrome-syndrome, syndrome-disease, syndrome-formula and syndrome-disease-formula, via calculating the symptom-, target gene-, the enriched gene ontology item-, pathway- and network module-based similarities and the network density, and further utilizes a variety of visualization types, such as heatmap, multi-level network and upsetview, to illustrate the association calculation results. In summary, SoFDA is of great significance to elucidate the biological basis of TCM syndromes and to facilitate functional and mechanistic studies of TCM syndrome differentiation and treatment.
@@ -133,6 +137,7 @@ Biomedical knowledge graphs (KGs), which can help with the understanding of comp
 
 - [Website](http://www.tcmip.cn/Syndrome/front/#/)
 
+
 ### SMPDB: The Small Molecule Pathway Database
 
 SMPDB (The Small Molecule Pathway Database) is an interactive, visual database containing more than 30 000 small molecule pathways found in humans only. The majority of these pathways are not found in any other pathway database. SMPDB is designed specifically to support pathway elucidation and pathway discovery in metabolomics, transcriptomics, proteomics and systems biology. It is able to do so, in part, by providing exquisitely detailed, fully searchable, hyperlinked diagrams of human metabolic pathways, metabolic disease pathways, metabolite signaling pathways and drug-action pathways. All SMPDB pathways include information on the relevant organs, subcellular compartments, protein_complex cofactors, protein_complex locations, metabolite locations, chemical structures and protein_complex quaternary structures. Each small molecule is hyperlinked to detailed descriptions contained in the HMDB or DrugBank and each protein_complex or enzyme complex is hyperlinked to UniProt. All SMPDB pathways are accompanied with detailed descriptions and references, providing an overview of the pathway, condition or processes depicted in each diagram. The database is easily browsed and supports full text, sequence and chemical structure searching. Users may query SMPDB with lists of metabolite names, drug names, genes/protein_complex names, SwissProt IDs, GenBank IDs, Affymetrix IDs or Agilent microarray IDs. These queries will produce lists of matching pathways and highlight the matching molecules on each of the pathway diagrams. Gene, metabolite and protein_complex concentration data can also be visualized through SMPDB's mapping interface. All of SMPDB's images, image maps, descriptions and tables are downloadable.
@@ -142,3 +147,52 @@ SMPDB (The Small Molecule Pathway Database) is an interactive, visual database c
 - [Website](http://smpdb.ca/)
 
 - [Data](http://smpdb.ca/downloads)
+
+
+### Full-DTIs-LC-Benchmark
+
+A benchmark dataset containing Drug-Target Interation (DTI) data of Lung Cancer (LC). This dataset avoided information that is only generated automatically, through text mining, and focused on most trustworthy sources, namely DrugBank, KEGG, DGIdb and TTD data. The union of DrugBank, KEGG, DGIdb and TTD provided 44,169 positive drug-gene interactions in total, with 1931 of those related on one side (drug) or the other (gene) to Lung Cancer (LC). As for the negative drug-gene pairs, there are 627,971 pairs, for which no interaction is reported in any of the above databases.
+
+- [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05373-2)
+- [Code](https://github.com/fotais/drug-gene-interactions/tree/main)
+- [Data](https://github.com/fotais/drug-gene-interactions/blob/main/Full-DTIs-LC-Benchmark.csv)
+
+
+### DGIdb: The Drug Gene Interation Database
+
+The Drug-Gene Interaction Database (DGIdb, www.dgidb.org) is a web resource that provides information on drug-gene interactions and druggable genes from publications, databases, and other web-based sources. Drug, gene, and interaction data are normalized and merged into conceptual groups. The information contained in this resource is available to users through a straightforward search interface, an application programming interface (API), and TSV data downloads. 
+DGIdb contains over 10,000 genes and 15,000 drugs involved in over 50,000 drug-gene interactions or belonging to one of 43 potentially druggable gene categories. 
+
+- [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7778926/)
+- [Website](https://beta.dgidb.org/)
+- [Data](https://beta.dgidb.org/downloads)
+
+
+### TTD: Therapeutic Target Database
+
+TTD is a database providing information about the known and explored therapeutic protein and nucleic acid targets, the targeted disease, pathway information and the corresponding drugs directed at each of these targets.
+As for 2022, TTD contains 3,578 targets and 38,760 drugs.
+
+- [Paper](https://academic.oup.com/nar/article/50/D1/D1398/6413598)
+- [Website](https://db.idrblab.net/ttd/)
+- [Data](https://db.idrblab.net/ttd/full-data-download)
+
+
+### PharmKG
+
+PharmKG is a multi-relational, attributed biomedical KG, composed of more than 500 000 individual interconnections between genes, drugs and diseases, with 29 relation types over a vocabulary of ~8000 disambiguated entities. Each entity in PharmKG is attached with heterogeneous, domain-specific information obtained from multi-omics data, i.e. gene expression, chemical structure and disease word embedding, while preserving the semantic and biomedical features.
+
+- [Paper](https://academic.oup.com/bib/article/22/4/bbaa344/6042240)
+- [Code](https://github.com/MindRank-Biotech/PharmKG)
+- [Dataset](https://zenodo.org/record/4077338)
+
+
+### BindingDB
+
+BindingDB is a public, web-accessible database of measured binding affinities, focusing chiefly on the interactions of proteins considered to be candidate drug-targets with ligands that are small, drug-like molecules. BindingDB supports medicinal chemistry and drug discovery via literature awareness and development of structure-activity relations (SAR and QSAR); validation of computational chemistry and molecular modeling approaches such as docking, scoring and free energy methods; chemical biology and chemical genomics; and basic studies of the physical chemistry of molecular recognition. BindingDB also includes a small collection of host-guest binding data of interest to chemists studying supramolecular systems.
+
+The data collection derives from a variety of measurement techniques, including enzyme inhibition and kinetics, isothermal titration calorimetry, NMR, and radioligand and competition assays. BindingDB includes data extracted from the literature and patents by the BindingDB project, selected PubChem confirmatory BioAssays, and ChEMBL entries for which a well defined protein target ("TARGET_TYPE='PROTEIN'") is provided. Data extracted by BindingDB typically includes more details regarding experimental conditions, etc. BindingDB currently contains about 2,781,729 binding data for 9,173 proteins and over 1,190,936 drug-like molecules.
+
+- [Paper](https://pubmed.ncbi.nlm.nih.gov/26481362/)
+- [Website](https://www.bindingdb.org/rwd/bind/index.jsp)
+- [Dataset](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/Download.jsp)
