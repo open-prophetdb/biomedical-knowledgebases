@@ -211,3 +211,9 @@ BioSNAP, short for "Biomedical Snapshots," is a collection of large-scale biomed
 SIDER contains information on marketed medicines and their recorded adverse drug reactions. The information is extracted from public documents and package inserts. The available information include side effect frequency, drug and side effect classifications as well as links to further information, for example drug–target relations.
 
 - [Website](http://sideeffects.embl.de/)
+
+### STITCH
+
+The STITCH database (Search Tool for Interactions of Chemicals) is a resource for exploring interactions between proteins and chemicals, including drugs, in various biological systems. It's designed to integrate information about interactions from multiple sources and make it accessible for researchers and scientists.
+
+- [Website](http://stitch.embl.de/cgi/download.pl)
