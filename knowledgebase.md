@@ -200,3 +200,14 @@ As for 2022, TTD contains 3,578 targets and 38,760 drugs.
 - [Data](https://db.idrblab.net/ttd/full-data-download)
 
 
+### Stanford Biomedical Network Dataset Collection
+
+BioSNAP, short for "Biomedical Snapshots," is a collection of large-scale biomedical datasets and computational tools. It's part of the SNAP (Stanford Network Analysis Project) initiative, which aims to develop and provide resources to facilitate research in network analysis and complex system modeling.
+
+- [Website](https://snap.stanford.edu/biodata/index.html)
+
+### SIDER
+
+SIDER contains information on marketed medicines and their recorded adverse drug reactions. The information is extracted from public documents and package inserts. The available information include side effect frequency, drug and side effect classifications as well as links to further information, for example drug–target relations.
+
+- [Website](http://sideeffects.embl.de/)
