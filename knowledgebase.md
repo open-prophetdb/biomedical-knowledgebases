@@ -1,4 +1,5 @@
 ### PrimeKG: A Knowledge Graph for Precision Medicine.
+
 PrimeKG integrates 20 high-quality resources to describe 17,080 diseases with 4,050,249 relationships representing ten major biological scales, including disease-associated protein perturbations, biological processes and pathways, anatomical and phenotypic scales, and the entire range of approved drugs with their therapeutic action, considerably expanding previous efforts in disease-rooted knowledge graphs. PrimeKG contains an abundance of 'indications', 'contradictions', and 'off-label use' drug-disease edges that lack in other knowledge graphs and can support AI analyses of how drugs affect disease-associated networks.
 
 - [Paper](https://www.nature.com/articles/s41597-023-01960-3)
@@ -10,6 +11,7 @@ PrimeKG integrates 20 high-quality resources to describe 17,080 diseases with 4,
 - [Website](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
 
 ### PreMedKB: an integrated precision medicine knowledgebase for interpreting relationships between diseases, genes, variants and drugs
+
 Precision Medicine Knowledgebase (PreMedKB) integrate the four fundamental components of precision medicine: diseases, genes, variants and drugs. PreMedKB allows for search of comprehensive information within each of the four components, the relationships between any two or more components, and importantly, the interpretation of the clinical meanings of a patient's genetic variants. PreMedKB is an efficient and user-friendly tool to assist researchers, clinicians or patients in interpreting a patient's genetic profile in terms of discovering potential pathogenic variants, recommending therapeutic regimens, designing panels for genetic testing kits, and matching patients for clinical trials.
 
 - [Paper](https://pubmed.ncbi.nlm.nih.gov/30407536/)
@@ -142,3 +144,33 @@ SMPDB (The Small Molecule Pathway Database) is an interactive, visual database c
 - [Website](http://smpdb.ca/)
 
 - [Data](http://smpdb.ca/downloads)
+
+
+### TTD: Therapeutic Target Database
+
+A database to provide information about the known and explored therapeutic protein and nucleic acid targets, the targeted disease, pathway information and the corresponding drugs directed at each of these targets. 
+
+- [Website](https://db.idrblab.net/ttd/)
+
+### LitCovid: A literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.
+
+LitCovid is the most comprehensive resource on the subject, providing a central access to 374,577 (and growing ) relevant articles in PubMed. The articles are updated daily and are further categorized by different research topics (e.g. transmission) and geographic locations.
+
+- [Website](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
+
+- [Paper](https://academic.oup.com/nar/article/49/D1/D1534/5964074)
+
+### Thera-SAbDab: Therapeutic Structural Antibody Database
+
+The Therapeutic Structural Antibody Database (Thera-SAbDab) is a database of immunotherapeutic variable domain sequences and their corresponding structural representatives in SAbDab (which harvests data from the PDB). It updates structural mappings alongside SAbDab on a weekly basis. It detects not only exact sequence matches to known structures, but also close sequence matches (divided into two categories: 95-98% seqID, or 99% seqID).
+
+- [Website](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab)
+
+- [Paper](https://academic.oup.com/nar/article/50/D1/D1368/6431822)
+
+### UmabsDB: The Umabs Antibody Therapies Database
+
+The Umabs Antibody Therapies Database is launched and run by Umabs Therapeutics. All indexed antibody entries are collected from open sources. We are a team of antibody scientists who aim to provide the best and most updated data to the antibody research community. A well-curated database provides a comprehensive scope of the field. Furthermore, data of good quality is the infrastructure for AI-based antibody therapy development. In the future, we will upload research data of 1) discovery, 2) development and 3) NGS sequencing data from open sources and research activities of trusted collaborative organisations.
+
+- [Website](https://umabs.com/)
+
