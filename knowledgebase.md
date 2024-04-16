@@ -2,6 +2,14 @@
 
 PrimeKG integrates 20 high-quality resources to describe 17,080 diseases with 4,050,249 relationships representing ten major biological scales, including disease-associated protein perturbations, biological processes and pathways, anatomical and phenotypic scales, and the entire range of approved drugs with their therapeutic action, considerably expanding previous efforts in disease-rooted knowledge graphs. PrimeKG contains an abundance of 'indications', 'contradictions', and 'off-label use' drug-disease edges that lack in other knowledge graphs and can support AI analyses of how drugs affect disease-associated networks.
 
+- [Paper](https://www.nature.com/articles/s41597-023-01960-3)
+
+- [Code](https://github.com/mims-harvard/PrimeKG)
+
+- [Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)
+
+- [Website](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
+
 ### BindingDB
 
 BindingDB is a public, web-accessible database of measured binding affinities, focusing chiefly on the interactions of proteins considered to be candidate drug-targets with ligands that are small, drug-like molecules. BindingDB supports medicinal chemistry and drug discovery via literature awareness and development of structure-activity relations (SAR and QSAR); validation of computational chemistry and molecular modeling approaches such as docking, scoring and free energy methods; chemical biology and chemical genomics; and basic studies of the physical chemistry of molecular recognition. BindingDB also includes a small collection of host-guest binding data of interest to chemists studying supramolecular systems.
@@ -153,18 +161,6 @@ Precision Medicine Knowledgebase (PreMedKB) integrate the four fundamental compo
 - [Paper](https://pubmed.ncbi.nlm.nih.gov/30407536/)
 
 
-### PrimeKG: A Knowledge Graph for Precision Medicine.
-PrimeKG integrates 20 high-quality resources to describe 17,080 diseases with 4,050,249 relationships representing ten major biological scales, including disease-associated protein perturbations, biological processes and pathways, anatomical and phenotypic scales, and the entire range of approved drugs with their therapeutic action, considerably expanding previous efforts in disease-rooted knowledge graphs. PrimeKG contains an abundance of 'indications', 'contradictions', and 'off-label use' drug-disease edges that lack in other knowledge graphs and can support AI analyses of how drugs affect disease-associated networks.
-
-- [Paper](https://www.nature.com/articles/s41597-023-01960-3)
-
-- [Code](https://github.com/mims-harvard/PrimeKG)
-
-- [Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)
-
-- [Website](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
-
-
 ### SMPDB: The Small Molecule Pathway Database
 
 SMPDB (The Small Molecule Pathway Database) is an interactive, visual database containing more than 30 000 small molecule pathways found in humans only. The majority of these pathways are not found in any other pathway database. SMPDB is designed specifically to support pathway elucidation and pathway discovery in metabolomics, transcriptomics, proteomics and systems biology. It is able to do so, in part, by providing exquisitely detailed, fully searchable, hyperlinked diagrams of human metabolic pathways, metabolic disease pathways, metabolite signaling pathways and drug-action pathways. All SMPDB pathways include information on the relevant organs, subcellular compartments, protein_complex cofactors, protein_complex locations, metabolite locations, chemical structures and protein_complex quaternary structures. Each small molecule is hyperlinked to detailed descriptions contained in the HMDB or DrugBank and each protein_complex or enzyme complex is hyperlinked to UniProt. All SMPDB pathways are accompanied with detailed descriptions and references, providing an overview of the pathway, condition or processes depicted in each diagram. The database is easily browsed and supports full text, sequence and chemical structure searching. Users may query SMPDB with lists of metabolite names, drug names, genes/protein_complex names, SwissProt IDs, GenBank IDs, Affymetrix IDs or Agilent microarray IDs. These queries will produce lists of matching pathways and highlight the matching molecules on each of the pathway diagrams. Gene, metabolite and protein_complex concentration data can also be visualized through SMPDB's mapping interface. All of SMPDB's images, image maps, descriptions and tables are downloadable.
@@ -246,3 +242,15 @@ SIDER contains information on marketed medicines and their recorded adverse drug
 The STITCH database (Search Tool for Interactions of Chemicals) is a resource for exploring interactions between proteins and chemicals, including drugs, in various biological systems. It's designed to integrate information about interactions from multiple sources and make it accessible for researchers and scientists.
 
 - [Website](http://stitch.embl.de/cgi/download.pl)
+
+### MetaCyc
+
+MetaCyc is a curated database of experimentally elucidated metabolic pathways from all domains of life. MetaCyc contains pathways involved in both primary and secondary metabolism, as well as associated metabolites, reactions, enzymes, and genes. The goal of MetaCyc is to catalog the universe of metabolism by storing a representative sample of each experimentally elucidated pathway.MetaCyc currently contains 3,153 pathways, 19,020 reactions and 19,372 metabolites.
+
+- [Website](https://metacyc.org/)
+
+### NSides
+
+nSIDES is the home for the drug side effect and drug interaction resources made available from the Tatonetti Lab. Below you will find descriptions of each of the resources with links to download the data and access the code.
+
+- [Website](https://nsides.io/)
